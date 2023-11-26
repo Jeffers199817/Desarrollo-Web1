@@ -1,0 +1,44 @@
+
+
+#cabeceraWeb{
+
+    background-color:aqua;
+}
+
+#navegacionPrincipal { 
+    background-color: rgb(42, 54, 165);
+}
+
+#barraLateral{
+    background-color: rgb(43, 226, 98);
+    height: 1020px;;
+}
+#contenidoPrincipal {
+
+    background-color: rgb(118, 51, 201);
+    margin-left: 200px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padd
+}
+
+#piePrincipal{
+    background-color: yellow;
+    clear:both;
+    margin-top: 105px;
+    
+}
+
+li { 
+    background-color: yellow;
+    display:inline; 
+}
+
+aside {
+    background-color: rgb(122, 128, 0);
+    float: left;
+}
+
+blockquote {
+    background-color:  rgb(255, 0, 212);
+}
