@@ -1,4 +1,7 @@
+.marco *{
 
+   outline: 4px solid red;
+}
 
 #cabeceraWeb{
 
@@ -7,6 +10,8 @@
 
 #navegacionPrincipal { 
     background-color: rgb(42, 54, 165);
+    display: flex;
+    justify-content: center;
 }
 
 #barraLateral{
@@ -19,7 +24,7 @@
     margin-left: 200px;
     padding-left: 15px;
     padding-top: 15px;
-    padd
+    
 }
 
 #piePrincipal{
@@ -29,9 +34,16 @@
     
 }
 
+ul { 
+
+    list-style: none;
+    padding: 0;
+}
+
 li { 
     background-color: yellow;
     display:inline; 
+    text-align: center;
 }
 
 aside {
@@ -41,4 +53,12 @@ aside {
 
 blockquote {
     background-color:  rgb(255, 0, 212);
+}
+
+#quieneSomos{ 
+    background-color: brown;
+    text-align: left;;
+    
+
+
 }
